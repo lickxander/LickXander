@@ -1,0 +1,119 @@
+body {
+  background-color: black;
+}
+
+.smallPhoto {
+  width: 105.9%;
+  position: relative;
+  right: 1rem;
+}
+
+.bananalogo {
+  position: relative;
+  bottom: -1rem;
+}
+
+.smallBio {
+  position: relative;
+  top: -1.5rem;
+  font-size: 300%;
+  font-weight: 700;
+}
+
+.smallSubBio {
+  position: relative;
+  top: -1.5rem;
+  font-weight: normal;
+}
+
+.button {
+  position: relative;
+  font-weight: 600;
+  top: -0.5rem;
+  background-color: black;
+  border-color: #f8f9fa;
+  color: white;
+  border-width: 2px;
+  width: 90%;
+  word-spacing: 0.1rem;
+  letter-spacing: 2px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.socialLinks {
+  position: relative;
+  word-spacing: 2rem;
+  top: 1rem;
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
+
+.photoContainer {
+  display: inline-flex;
+}
+
+.description {
+  display: inline;
+  position: relative;
+  top: 21rem;
+}
+
+.socials {
+  align-content: space-between;
+  position: relative;
+  top: 24rem;
+}
+
+/* Large Display */
+
+.largeBananaLogo {
+  position: relative;
+  width: 80%;
+  top: -2rem;
+  left: 10%;
+}
+
+.largeBio {
+  position: relative;
+  top: -3rem;
+  font-size: 500%;
+  font-weight: 700;
+}
+
+.largeSubBio {
+  position: relative;
+  top: -2rem;
+  font-weight: 600;
+}
+
+.largeButton {
+  position: relative;
+  top: rem;
+  width: 40%;
+  background-color: black;
+  border-color: #f8f9fa;
+  color: white;
+  border-width: 2px;
+  font-size: 100%;
+  font-weight: 600;
+  letter-spacing: 0.3rem;
+  word-spacing: 0.5rem;
+}
+
+.largeSocials {
+  position: relative;
+  top: 3rem;
+  align-content: space-between;
+  width: 100%;
+}
+
+.largePhoto {
+  position: relative;
+  left: 2%;
+  width: 100.6%;
+}
+
+a {
+  padding: 3%;
+}
