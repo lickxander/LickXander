@@ -3,16 +3,22 @@ body {
 }
 
 .smallPhoto {
+  margin: auto;
   width: 100%;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
   position: relative;
 }
 
 .bananalogo {
   position: relative;
   bottom: -1rem;
+  margin: auto;
   width: 100%;
+  max-width: 100%;
   height: auto;
-  overflow-x: hidden;
+  object-fit: cover;
 }
 
 .smallBio {
