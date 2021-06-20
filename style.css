@@ -5,6 +5,7 @@ body {
 .smallPhoto {
   width: 100%;
   position: relative;
+  visibility: hidden;
 }
 
 .bananalogo {
@@ -12,6 +13,7 @@ body {
   bottom: -1rem;
   width: 100%;
   height: auto;
+  visibility: hidden;
 }
 
 .smallBio {
