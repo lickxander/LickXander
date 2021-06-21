@@ -4,18 +4,12 @@ body {
 
 .smallPhoto {
   width: 100%;
-  max-width: 100%;
-  height: auto;
-  position: relative;
+  align-self: center;
 }
 
 .bananalogo {
-  position: relative;
-  bottom: -1rem;
-  margin: auto;
   width: 100%;
-  max-width: 100%;
-  height: auto;
+  align-self: center;
   object-fit: cover;
 }
 
